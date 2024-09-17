@@ -1,3 +1,5 @@
+import casa.*
+
 object electrodomestico{
 }
 
